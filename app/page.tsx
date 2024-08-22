@@ -1,6 +1,13 @@
 'use client'
 import Image from "next/image";
-import { Col, Form, FormControl, FormGroup, InputGroup, Navbar, NavDropdown, Row } from "react-bootstrap";
+import Col from "react-bootstrap/Col";
+import Form from "react-bootstrap/Form";
+import FormControl from "react-bootstrap/FormControl";
+import FormGroup from "react-bootstrap/FormGroup";
+import InputGroup from "react-bootstrap/InputGroup";
+import Navbar from "react-bootstrap/Navbar";
+import NavDropdown from "react-bootstrap/NavDropdown";
+import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 
